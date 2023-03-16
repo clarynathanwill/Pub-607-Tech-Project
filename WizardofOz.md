@@ -1,22 +1,3 @@
-Title: The Wonderful Wizard of Oz
-
-Author: L. Frank Baum
-
-Release Date: February, 1993 [eBook #55]
-[Most recently updated: October 19, 2020]
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-*** START OF THE PROJECT GUTENBERG EBOOK THE WONDERFUL WIZARD OF OZ ***
-
-[Illustration]
-
-
-
-
 The Wonderful Wizard of Oz
 
 by L. Frank Baum
