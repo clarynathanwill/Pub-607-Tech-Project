@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 
 Folklore, legends, myths and fairy tales have followed childhood through the ages, for every healthy youngster has a wholesome and instinctive love for stories fantastic, marvelous and manifestly 
@@ -9,11 +9,6 @@ Yet the old time fairy tale, having served for generations, may now be classed a
 Having this thought in mind, the story of “The Wonderful Wizard of Oz” was written solely to please children of today. It aspires to being a modernized fairy tale, in which the wonderment and joy are retained and the heartaches and nightmares are left out.
 
 L. Frank Baum Chicago, April, 1900.
-
-
-
-The Wonderful Wizard of Oz
-
 
 
 
