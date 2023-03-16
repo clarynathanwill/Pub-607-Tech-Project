@@ -1,5 +1,4 @@
 # Introduction
-key
 
 Folklore, legends, myths and fairy tales have followed childhood through the ages, for every healthy youngster has a wholesome and instinctive love for stories fantastic, marvelous and manifestly 
 nreal. The winged fairies of Grimm and Andersen have brought more happiness to childish hearts than all other human creations.
