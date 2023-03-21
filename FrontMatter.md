@@ -8,16 +8,16 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: The Wonderful Wizard of Oz
+*Title*: The Wonderful Wizard of Oz
 
-Author: L. Frank Baum
+*Author*: L. Frank Baum
 
-Release Date: February, 1993 [eBook #55]
+*Release Date*: February, 1993 [eBook #55]
 [Most recently updated: October 19, 2020]
 
-Language: English
+*Language*: English
 
-Character set encoding: UTF-8
+*Character set encoding*: UTF-8
 
 
 *** START OF THE PROJECT GUTENBERG EBOOK THE WONDERFUL WIZARD OF OZ ***
@@ -27,43 +27,43 @@ Character set encoding: UTF-8
 
 
 
-The Wonderful Wizard of Oz
+#The Wonderful Wizard of Oz#
 
 by L. Frank Baum
 
 
-This book is dedicated to my good friend & comrade
+*This book is dedicated to my good friend & comrade
 My Wife
-L.F.B.
+L.F.B.*
 
 
 Contents
 
  Introduction
- Chapter I. The Cyclone
- Chapter II. The Council with the Munchkins
- Chapter III. How Dorothy Saved the Scarecrow
- Chapter IV. The Road Through the Forest
- Chapter V. The Rescue of the Tin Woodman
- Chapter VI.  The Cowardly Lion
- Chapter VII. The Journey to the Great Oz
- Chapter VIII. The Deadly Poppy Field
- Chapter IX. The Queen of the Field Mice
- Chapter X. The Guardian of the Gates
- Chapter XI. The Emerald City of Oz
- Chapter XII. The Search for the Wicked Witch
- Chapter XIII. The Rescue
- Chapter XIV. The Winged Monkeys
- Chapter XV. The Discovery of Oz, the Terrible
- Chapter XVI. The Magic Art of the Great Humbug
- Chapter XVII. How the Balloon Was Launched
- Chapter XVIII. Away to the South
- Chapter XIX. Attacked by the Fighting Trees
- Chapter XX. The Dainty China Country
- Chapter XXI. The Lion Becomes the King of Beasts
- Chapter XXII. The Country of the Quadlings
- Chapter XXIII. Glinda The Good Witch Grants Dorothy’s Wish
- Chapter XXIV. Home Again
+ 1: The Cyclone
+ 2: The Council with the Munchkins
+ 3: How Dorothy Saved the Scarecrow
+ 4: The Road Through the Forest
+ 5: The Rescue of the Tin Woodman
+ 6:  The Cowardly Lion
+ 7: The Journey to the Great Oz
+ 8: The Deadly Poppy Field
+ 9: The Queen of the Field Mice
+ 10: The Guardian of the Gates
+ 11: The Emerald City of Oz
+ 12: The Search for the Wicked Witch
+ 13: The Rescue
+ 14: The Winged Monkeys
+ 15: The Discovery of Oz, the Terrible
+ 16: The Magic Art of the Great Humbug
+ 17: How the Balloon Was Launched
+ 18: Away to the South
+ 19: Attacked by the Fighting Trees
+ 20: The Dainty China Country
+ 21: The Lion Becomes the King of Beasts
+ 22: The Country of the Quadlings
+ 23: Glinda The Good Witch Grants Dorothy’s Wish
+ 24: Home Again
 
 
 
