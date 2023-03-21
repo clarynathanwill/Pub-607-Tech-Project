@@ -1,7 +1,5 @@
 # Pub-607-Tech-Project
 
-# Pub-607-Tech-Project
-
 # Team Matcha Press #
 Team Matcha (Christina, Mary, and Vishaka) believes in producing high quality, open acesss and accessible eBooks and Audibobooks. See our offerings below. 
 
