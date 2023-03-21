@@ -1,4 +1,4 @@
-*** END OF THE PROJECT GUTENBERG EBOOK THE WONDERFUL WIZARD OF OZ ***
+<span class ="caps">"End of the Project Gutenberg Ebook the wonderful Wizard of Oz."</span>
 
 ***** This file should be named 55-0.txt or 55-0.zip *****
 This and all associated files of various formats will be found in:
