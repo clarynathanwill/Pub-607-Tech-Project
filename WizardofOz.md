@@ -2364,4 +2364,4 @@ Aunt Em had just come out of the house to water the cabbages when she looked up 
 
 “From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I’m so glad to be at home again!”
 
-[<img src="Wizzard.png"width="400"/>]()
+[<img src="Wizzard.png" width="50% height=50&"/>]()
