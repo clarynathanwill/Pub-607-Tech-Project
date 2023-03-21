@@ -1,5 +1,5 @@
 # Team Matcha Press #
-Team Matcha (Christina, Mary, and Vishak) believes in producing high quality, open acesss and accessible eBooks and Audibobooks. See our offerings below. 
+Team Matcha (Christina, Mary, and Vishaka) believes in producing high quality, open acesss and accessible eBooks and Audibobooks. See our offerings below. 
 
 ## Avaliable eBooks ##
 
