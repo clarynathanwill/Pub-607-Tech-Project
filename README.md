@@ -5,7 +5,7 @@ Team Matcha (Christina, Mary, and Vishaka) believes in producing high quality, o
 
 ## Avaliable eBooks ##
 
-*The Wonderful Wizard of Oz* by L. Fran Baum
+### *The Wonderful Wizard of Oz* by L. Fran Baum ###
 
 *Come along, Toto, she said. We will go to the Emerald City and ask the Great Oz how to get back to Kansas again.*
 
@@ -17,7 +17,7 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 ## Avaliable Audiobooks ##
 
-*The Wonderful Wizard of Oz* by L. Fran Baum
+### *The Wonderful Wizard of Oz* by L. Fran Baum ###
 
 *Come along, Toto, she said. We will go to the Emerald City and ask the Great Oz how to get back to Kansas again.*
 
