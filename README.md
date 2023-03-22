@@ -1,3 +1,22 @@
+<head>
+<style>
+.button {
+  background-color: #FFA500;
+  border: none;
+  color: white;
+  font-weight: bold;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 3px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body>
 # Pub-607-Tech-Project
 
 # Team Matcha Press #
@@ -30,3 +49,4 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 
 [View Backmatter here](BackMatter.md) 
+</body>
