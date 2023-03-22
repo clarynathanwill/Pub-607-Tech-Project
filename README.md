@@ -13,6 +13,10 @@
   margin: 6px 3px;
   cursor: pointer;
 }
+
+p {font-family: Helvetica, Arial;}
+
+h1, h2 {font-weight: bold;)
 </style>
 </head>
 
