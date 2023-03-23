@@ -1,13 +1,3 @@
----
-title: The Wizard of Oz
-author: L. Frank Baum  
-language: en-US
-publisher: Team Matcha Press
-rights: All Rights Reserved
-cover-image: wizardcoverfinal.jpg
-stylesheet: style.css
----
-
 # Introduction
 
 <span class ="intro">*Folklore, legends, myths and fairy tales have followed childhood through the ages, for every healthy youngster has a wholesome and instinctive love for stories fantastic, marvelous and manifestly 
@@ -2374,4 +2364,4 @@ Aunt Em had just come out of the house to water the cabbages when she looked up 
 
 “From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I’m so glad to be at home again!”
 
-[<img src="Wizzard.png" alt="Wizard in a hot air ballon" width="50% height=50&" class="center"/>]()
+[<img src="Wizzard.png" alt="Wizard in a hot air ballon" width="50%" height="50%" class="center"/>]()
