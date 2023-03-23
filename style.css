@@ -25,3 +25,11 @@ p + p {
 .intro {font-family: Didot}
 
 .caps {text-transform: uppercase;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 2em;
+}
