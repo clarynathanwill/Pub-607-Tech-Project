@@ -1,3 +1,13 @@
+---
+title: The Wizard of Oz
+author: L. Frank Baum  
+language: en-US
+publisher: Team Matcha Press
+rights: All Rights Reserved
+cover-image: wizardcover.jpg
+stylesheet: style.css
+---
+
 # Introduction
 
 Folklore, legends, myths and fairy tales have followed childhood through the ages, for every healthy youngster has a wholesome and instinctive love for stories fantastic, marvelous and manifestly 
