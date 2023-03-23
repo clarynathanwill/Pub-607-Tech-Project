@@ -5,7 +5,7 @@ body {
 
 
 h1 {
-    font-family: Helvetica, Arial;
+    font-family: Didot;
     font-size: 24px;
     font-variant: small-caps;
     border-bottom: 1px grey solid;
@@ -22,7 +22,6 @@ p + p {
     text-indent: 1.3em;
     line-height: 1.3em;
 }
-.intro {background-color: lightgrey;
-font-family: Didot}
+.intro {font-family: Didot}
 
 .caps {text-transform: uppercase;}
