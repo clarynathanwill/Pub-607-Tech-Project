@@ -4,7 +4,7 @@ author: L. Frank Baum
 language: en-US
 publisher: Team Matcha Press
 rights: All Rights Reserved
-cover-image: wizardcover.jpg
+cover-image: wizardcoverfinal.jpg
 stylesheet: style.css
 ---
 
