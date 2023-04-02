@@ -5,6 +5,9 @@ Team Matcha (Christina, Mary, and Vishaka) believes in producing high quality, o
 
 ## Avaliable eBooks ##
 
+![wizardcoverfinal](https://user-images.githubusercontent.com/127456472/229382321-0a0f9d4d-627d-45e9-9d25-9ad2c3106997.jpg)
+
+
 *The Wonderful Wizard of Oz* by L. Fran Baum
 
 *Come along, Toto, she said. We will go to the Emerald City and ask the Great Oz how to get back to Kansas again.*
@@ -19,6 +22,9 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 
 ## Avaliable Audiobooks ##
+
+![th-1](https://user-images.githubusercontent.com/127456472/229382412-e9e8cbc1-5067-49be-8099-0d76e22fb814.jpeg)
+
 
 *The Little Red Riding Hood* by Charles Perrault
 
