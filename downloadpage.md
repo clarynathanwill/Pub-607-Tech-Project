@@ -16,7 +16,7 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 [View the eBook here](WizardofOz.md) 
 
-[<img src="https://user-images.githubusercontent.com/127159368/223621420-b914a95c-838b-4d34-bb85-bf6c074c0bb9.png" width="200" height="143" />](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)
+[<img src="https://user-images.githubusercontent.com/127159368/223621420-b914a95c-838b-4d34-bb85-bf6c074c0bb9.png" width="200" height="143" />](https://github.com/clarynathanwill/Pub-607-Tech-Project/blob/eaf1d07b5b47c9f0c59f12c7f9ac331d774418a1/WizardofOz.epub)
 
 
 
