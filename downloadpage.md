@@ -25,7 +25,7 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 *"Remember, go straight to Grandma's house! Don't dawdle along the way and don't talk to strangers! The woods are dangerous!"*
 
-"Little Red Riding Hood" by Charles Perrault tells of a young girl who comes across a cunning wolf on the way to her grandmother's home. The wolf deceives both her and her grandmother and eats them, a grim ending for the protagonist of the story. This popular fairytale continues to delight and enthrall young readers from all around the world. 
+In this popular tale by Charles Perrault, a young girl comes across a cunning wolf on the way to her grandmother's home. The wolf deceives her, but the little girl outsmarts the wolf with her imagination and courage, saving them both from a grim fate. This audiobook brings to life the story that continues to delight and enthrall young readers from all around the world. 
 
 [View the audiobook here] 
 
