@@ -1057,7 +1057,7 @@ But what interested Dorothy most was the big throne of green marble that stood i
 
 As Dorothy gazed upon this in wonder and fear, the eyes turned slowly and looked at her sharply and steadily. Then the mouth moved, and Dorothy heard a voice say:
 
-“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+*“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”*
 
 It was not such an awful voice as she had expected to come from the big Head; so she took courage and answered:
 
@@ -1065,43 +1065,43 @@ It was not such an awful voice as she had expected to come from the big Head; so
 
 The eyes looked at her thoughtfully for a full minute. Then said the voice:
 
-“Where did you get the silver shoes?”
+*“Where did you get the silver shoes?”*
 
 “I got them from the Wicked Witch of the East, when my house fell on her and killed her,” she replied.
 
-“Where did you get the mark upon your forehead?” continued the voice.
+*“Where did you get the mark upon your forehead?”* continued the voice.
 
 “That is where the Good Witch of the North kissed me when she bade me good-bye and sent me to you,” said the girl.
 
-Again the eyes looked at her sharply, and they saw she was telling the truth. Then Oz asked, “What do you wish me to do?”
+Again the eyes looked at her sharply, and they saw she was telling the truth. Then Oz asked, *“What do you wish me to do?”*
 
 “Send me back to Kansas, where my Aunt Em and Uncle Henry are,” she answered earnestly. “I don’t like your country, although it is so beautiful. And I am sure Aunt Em will be dreadfully worried over my being away so long.”
 
 The eyes winked three times, and then they turned up to the ceiling and down to the floor and rolled around so queerly that they seemed to see every part of the room. And at last they looked at Dorothy again.
 
-“Why should I do this for you?” asked Oz.
+*“Why should I do this for you?”* asked Oz.
 
 “Because you are strong and I am weak; because you are a Great Wizard and I am only a little girl.”
 
-“But you were strong enough to kill the Wicked Witch of the East,” said Oz.
+*“But you were strong enough to kill the Wicked Witch of the East,”* said Oz.
 
 “That just happened,” returned Dorothy simply; “I could not help it.”
 
-“Well,” said the Head, “I will give you my answer. You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you.”
+*“Well,”* said the Head, *“I will give you my answer. You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you.”*
 
 “What must I do?” asked the girl.
 
-“Kill the Wicked Witch of the West,” answered Oz.
+*“Kill the Wicked Witch of the West,”* answered Oz.
 
 “But I cannot!” exclaimed Dorothy, greatly surprised.
 
-“You killed the Witch of the East and you wear the silver shoes, which bear a powerful charm. There is now but one Wicked Witch left in all this land, and when you can tell me she is dead I will send you back to Kansas—but not before.”
+*“You killed the Witch of the East and you wear the silver shoes, which bear a powerful charm. There is now but one Wicked Witch left in all this land, and when you can tell me she is dead I will send you back to Kansas—but not before.”*
 
 The little girl began to weep, she was so much disappointed; and the eyes winked again and looked upon her anxiously, as if the Great Oz felt that she could help him if she would.
 
 “I never killed anything, willingly,” she sobbed. “Even if I wanted to, how could I kill the Wicked Witch? If you, who are Great and Terrible, cannot kill her yourself, how do you expect me to do it?”
 
-“I do not know,” said the Head; “but that is my answer, and until the Wicked Witch dies you will not see your uncle and aunt again. Remember that the Witch is Wicked—tremendously Wicked—and ought to be killed. Now go, and do not ask to see me again until you have done your task.”
+*“I do not know,”* said the Head; *“but that is my answer, and until the Wicked Witch dies you will not see your uncle and aunt again. Remember that the Witch is Wicked—tremendously Wicked—and ought to be killed. Now go, and do not ask to see me again until you have done your task.”*
 
 Sorrowfully Dorothy left the Throne Room and went back where the Lion and the Scarecrow and the Tin Woodman were waiting to hear what Oz had said to her. “There is no hope for me,” she said sadly, “for Oz will not send me home until I have killed the Wicked Witch of the West; and that I can never do.”
 
@@ -1115,7 +1115,7 @@ So the Scarecrow followed him and was admitted into the great Throne Room, where
 
 When the Scarecrow had bowed, as prettily as his straw stuffing would let him, before this beautiful creature, she looked upon him sweetly, and said:
 
-“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+*“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”*
 
 Now the Scarecrow, who had expected to see the great Head Dorothy had told him of, was much astonished; but he answered her bravely.
 
@@ -1125,11 +1125,11 @@ Now the Scarecrow, who had expected to see the great Head Dorothy had told him o
 
 “Because you are wise and powerful, and no one else can help me,” answered the Scarecrow.
 
-“I never grant favors without some return,” said Oz; “but this much I will promise. If you will kill for me the Wicked Witch of the West, I will bestow upon you a great many brains, and such good brains that you will be the wisest man in all the Land of Oz.”
+*“I never grant favors without some return,”* said Oz; *“but this much I will promise. If you will kill for me the Wicked Witch of the West, I will bestow upon you a great many brains, and such good brains that you will be the wisest man in all the Land of Oz.”*
 
 “I thought you asked Dorothy to kill the Witch,” said the Scarecrow, in surprise.
 
-“So I did. I don’t care who kills her. But until she is dead I will not grant your wish. Now go, and do not seek me again until you have earned the brains you so greatly desire.”
+*“So I did. I don’t care who kills her. But until she is dead I will not grant your wish. Now go, and do not seek me again until you have earned the brains you so greatly desire.”*
 
 The Scarecrow went sorrowfully back to his friends and told them what Oz had said; and Dorothy was surprised to find that the Great Wizard was not a Head, as she had seen him, but a lovely Lady.
 
@@ -1143,19 +1143,19 @@ So the Tin Woodman followed him and came to the great Throne Room. He did not kn
 
 But when the Woodman entered the great Throne Room he saw neither the Head nor the Lady, for Oz had taken the shape of a most terrible Beast. It was nearly as big as an elephant, and the green throne seemed hardly strong enough to hold its weight. The Beast had a head like that of a rhinoceros, only there were five eyes in its face. There were five long arms growing out of its body, and it also had five long, slim legs. Thick, woolly hair covered every part of it, and a more dreadful-looking monster could not be imagined. It was fortunate the Tin Woodman had no heart at that moment, for it would have beat loud and fast from terror. But being only tin, the Woodman was not at all afraid, although he was much disappointed.
 
-“I am Oz, the Great and Terrible,” spoke the Beast, in a voice that was one great roar. “Who are you, and why do you seek me?”
+*“I am Oz, the Great and Terrible,”* spoke the Beast, in a voice that was one great roar. *“Who are you, and why do you seek me?”*
 
 “I am a Woodman, and made of tin. Therefore I have no heart, and cannot love. I pray you to give me a heart that I may be as other men are.”
 
-“Why should I do this?” demanded the Beast.
+*“Why should I do this?”* demanded the Beast.
 
 “Because I ask it, and you alone can grant my request,” answered the Woodman.
 
-Oz gave a low growl at this, but said, gruffly: “If you indeed desire a heart, you must earn it.”
+Oz gave a low growl at this, but said, gruffly: *“If you indeed desire a heart, you must earn it.”*
 
 “How?” asked the Woodman.
 
-“Help Dorothy to kill the Wicked Witch of the West,” replied the Beast. “When the Witch is dead, come to me, and I will then give you the biggest and kindest and most loving heart in all the Land of Oz.”
+*“Help Dorothy to kill the Wicked Witch of the West,”* replied the Beast. *“When the Witch is dead, come to me, and I will then give you the biggest and kindest and most loving heart in all the Land of Oz.”*
 
 So the Tin Woodman was forced to return sorrowfully to his friends and tell them of the terrible Beast he had seen. They all wondered greatly at the many forms the Great Wizard could take upon himself, and the Lion said:
 
@@ -1167,15 +1167,15 @@ The Lion at once passed through the door, and glancing around saw, to his surpri
 
 Then a low, quiet voice came from the Ball of Fire, and these were the words it spoke:
 
-“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”
+*“I am Oz, the Great and Terrible. Who are you, and why do you seek me?”*
 
 And the Lion answered, “I am a Cowardly Lion, afraid of everything. I came to you to beg that you give me courage, so that in reality I may become the King of Beasts, as men call me.”
 
-“Why should I give you courage?” demanded Oz.
+*“Why should I give you courage?”* demanded Oz.
 
 “Because of all Wizards you are the greatest, and alone have power to grant my request,” answered the Lion.
 
-The Ball of Fire burned fiercely for a time, and the voice said, “Bring me proof that the Wicked Witch is dead, and that moment I will give you courage. But as long as the Witch lives, you must remain a coward.”
+The Ball of Fire burned fiercely for a time, and the voice said, *“Bring me proof that the Wicked Witch is dead, and that moment I will give you courage. But as long as the Witch lives, you must remain a coward.”*
 
 The Lion was angry at this speech, but could say nothing in reply, and while he stood silently gazing at the Ball of Fire it became so furiously hot that he turned tail and rushed from the room. He was glad to find his friends waiting for him, and told them of his terrible interview with the Wizard.
 
@@ -1575,15 +1575,15 @@ Of course each one of them expected to see the Wizard in the shape he had taken 
 
 Presently they heard a solemn Voice, that seemed to come from somewhere near the top of the great dome, and it said:
 
-“I am Oz, the Great and Terrible. Why do you seek me?”
+*“I am Oz, the Great and Terrible. Why do you seek me?”*
 
 They looked again in every part of the room, and then, seeing no one, Dorothy asked, “Where are you?”
 
-“I am everywhere,” answered the Voice, “but to the eyes of common mortals I am invisible. I will now seat myself upon my throne, that you may converse with me.” Indeed, the Voice seemed just then to come straight from the throne itself; so they walked toward it and stood in a row while Dorothy said:
+*“I am everywhere,”* answered the Voice, *“but to the eyes of common mortals I am invisible. I will now seat myself upon my throne, that you may converse with me.”* Indeed, the Voice seemed just then to come straight from the throne itself; so they walked toward it and stood in a row while Dorothy said:
 
 “We have come to claim our promise, O Oz.”
 
-“What promise?” asked Oz.
+*“What promise?”* asked Oz.
 
 “You promised to send me back to Kansas when the Wicked Witch was destroyed,” said the girl.
 
@@ -1593,11 +1593,11 @@ They looked again in every part of the room, and then, seeing no one, Dorothy as
 
 “And you promised to give me courage,” said the Cowardly Lion.
 
-“Is the Wicked Witch really destroyed?” asked the Voice, and Dorothy thought it trembled a little.
+*“Is the Wicked Witch really destroyed?”* asked the Voice, and Dorothy thought it trembled a little.
 
 “Yes,” she answered, “I melted her with a bucket of water.”
 
-“Dear me,” said the Voice, “how sudden! Well, come to me tomorrow, for I must have time to think it over.”
+*“Dear me,”* said the Voice, *“how sudden! Well, come to me tomorrow, for I must have time to think it over.”*
 
 “You’ve had plenty of time already,” said the Tin Woodman angrily.
 
