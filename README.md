@@ -30,8 +30,6 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 In this popular tale by Charles Perrault, a young girl comes across a cunning wolf on the way to her grandmother's home. The wolf deceives her, but the little girl outsmarts the wolf with her imagination and courage, saving them both from a grim fate. This audiobook brings to life the story that continues to delight and enthrall young readers from all around the world. 
 
-[View the audiobook here] 
-
 [<img src="https://user-images.githubusercontent.com/127159368/223621420-b914a95c-838b-4d34-bb85-bf6c074c0bb9.png" width="200" height="143" />](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)
 
 
