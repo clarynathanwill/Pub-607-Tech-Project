@@ -33,4 +33,4 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 <a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook here</a>
 
-*Team Matcha respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), and səl̓ilw̓ətaʔɬ (Tsleil-Waututh) peoples on whose unceded traditional territories they reside.* 
+*Team Matcha respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), and səl̓ilw̓ətaʔɬ (Tsleil-Waututh) peoples on whose unceded traditional territories they work and reside.* 
