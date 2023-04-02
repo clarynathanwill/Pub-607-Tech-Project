@@ -19,10 +19,10 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 ## Avaliable Audiobooks ##
 
-*The Wonderful Wizard of Oz* by L. Fran Baum
+*The Little Red Riding Hood* by Charles Perrault
 
-*Come along, Toto, she said. We will go to the Emerald City and ask the Great Oz how to get back to Kansas again.*
+*"Remember, go straight to Grandma's house! Don't dawdle along the way and don't talk to strangers! The woods are dangerous!"*
 
-Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find themselves stranded in the fantastical Land of Oz. As instructed by the Good Witch of the North and the Munchkins, Dorothy sets off on the yellow brick road to try and find her way to the Emerald City and the Wizard of Oz, who can help her get home. With her companions the Scarecrow, the Tin Woodman and the Cowardly Lion, Dorothy experiences an adventure full of friendship, magic and danger. A much-loved children's classic, The Wizard of Oz continues to delight readers young and old with its enchanting tale of witches, flying monkeys and silver shoes.
+"Little Red Riding Hood" by Charles Perrault tells of a young girl who comes across a cunning wolf on the way to her grandmother's home. The wolf deceives both her and her grandmother and eats them, a grim ending for the protagonist of the story. This popular fairytale continues to delight and enthrall young readers all around the world. 
 
 <a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook here</a>
