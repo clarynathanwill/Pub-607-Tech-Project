@@ -15,7 +15,6 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 
 [<img src="https://user-images.githubusercontent.com/127159368/223621420-b914a95c-838b-4d34-bb85-bf6c074c0bb9.png" width="200" height="143" />](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)
 
-<a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the eBook here</a>
 
 
 
@@ -31,6 +30,5 @@ In this popular tale by Charles Perrault, a young girl comes across a cunning wo
 
 [<img src="https://user-images.githubusercontent.com/127159368/223621420-b914a95c-838b-4d34-bb85-bf6c074c0bb9.png" width="200" height="143" />](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)
 
-<a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook here</a>
 
 *Team Matcha respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), and səl̓ilw̓ətaʔɬ (Tsleil-Waututh) peoples on whose unceded traditional territories they work and reside.* 
