@@ -33,7 +33,7 @@ Swept away from her home in Kansas by a tornado, Dorothy and her dog Toto find t
 </head>
 <body>
 
-<a href="WizardofOz.md" class="button">Read the Ebook</a>
+<a href="https://github.com/clarynathanwill/Pub-607-Tech-Project/blob/main/WizardofOz.md#introduction" class="button">Read the Ebook</a>
 
 </body>
 
