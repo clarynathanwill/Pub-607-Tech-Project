@@ -68,7 +68,7 @@ In this popular tale by Charles Perrault, a young girl comes across a cunning wo
 </head>
 <body>
 
-<a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook</a>
+<a href="LittleRedRidinghoodAudiobook.mp3" class="button">Download the Audiobook</a>
 
 </body><head>
 <style>
@@ -89,7 +89,7 @@ In this popular tale by Charles Perrault, a young girl comes across a cunning wo
 </head>
 <body>
 
-<a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook With Alt-text Recording</a>
+<a href="LittleRedRidinghoodAudiobookAltText.mp3" class="button">Download the Audiobook With Alt-text</a>
 
 </body>
 
