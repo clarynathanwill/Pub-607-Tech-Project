@@ -1,7 +1,7 @@
 # Pub-607-Tech-Project
 
 # Team Matcha Press #
-Team Matcha (Christina, Mary, and Vishaka) believes in producing high quality, open acesss and accessible eBooks and Audibobooks. See our offerings below. 
+Team Matcha (Christina, Mary, and Vishaka) believes in producing high quality, open access, and accessible eBooks and Audibobooks. See our offerings below. 
 
 ## Avaliable eBooks ##
 
@@ -68,7 +68,7 @@ In this popular tale by Charles Perrault, a young girl comes across a cunning wo
 </head>
 <body>
 
-<a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook</a>
+<a href="LittleRedRidinghoodAudiobook.mp3" class="button">Download the Audiobook</a>
 
 </body><head>
 <style>
@@ -89,7 +89,7 @@ In this popular tale by Charles Perrault, a young girl comes across a cunning wo
 </head>
 <body>
 
-<a href="https://lmgtfy.app/?q=How+to+Download+an+Audiobook" class="button">Download the Audiobook With Alt-text Recording</a>
+<a href="LittleRedRidinghoodAudiobookAltText.mp3" class="button">Download the Audiobook With Alt-text</a>
 
 </body>
 
